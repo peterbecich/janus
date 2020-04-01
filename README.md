@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/nextstrain/janus.svg?branch=master)](https://travis-ci.com/nextstrain/janus)
+
 ## Introduction
 
 The nextstrain project is an attempt to make flexible informatic pipelines and visualization tools to track ongoing pathogen evolution as sequence data emerges. The nextstrain project derives from [nextflu](https://github.com/blab/nextflu), which was specific to influenza evolution.
